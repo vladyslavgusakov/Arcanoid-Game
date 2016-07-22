@@ -20,6 +20,7 @@
 
 ## Libraries used
 
+- UIDynamicAnimator
 - PlayGIF
 
 ## License
